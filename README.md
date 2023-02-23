@@ -1,1 +1,3 @@
-# KafkaConsumer-java
+# Kafka-Consumer
+
+Kafka consumer using Java.
